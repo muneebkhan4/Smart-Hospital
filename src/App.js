@@ -11,6 +11,7 @@ function AppRoutes() {
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />}></Route>
+          <Route path="/smart-hospital" element={<Home />}></Route>
           <Route path="/Search-Disease" element={<SearchDisease />}></Route>
           <Route path="/notfound" element={<NotFound />}></Route>
         </Routes>
