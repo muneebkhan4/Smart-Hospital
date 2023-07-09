@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/smart-hospital/static/css/main.073c9b0a.css",
-    "main.js": "/smart-hospital/static/js/main.7959ee35.js",
+    "main.css": "/smart-hospital/static/css/main.5cacd454.css",
+    "main.js": "/smart-hospital/static/js/main.359cb8b8.js",
     "static/js/787.b5bfac4d.chunk.js": "/smart-hospital/static/js/787.b5bfac4d.chunk.js",
+    "static/media/cover.png": "/smart-hospital/static/media/cover.8cce74c51907eb2309a8.png",
+    "static/media/google.png": "/smart-hospital/static/media/google.9db27c1011edb821b59c.png",
+    "static/media/usman.jpg": "/smart-hospital/static/media/usman.99eaa5ee7811a456ce19.jpg",
     "static/media/logo.svg": "/smart-hospital/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/smart-hospital/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/smart-hospital/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/smart-hospital/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/smart-hospital/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/smart-hospital/index.html",
-    "main.073c9b0a.css.map": "/smart-hospital/static/css/main.073c9b0a.css.map",
-    "main.7959ee35.js.map": "/smart-hospital/static/js/main.7959ee35.js.map",
+    "main.5cacd454.css.map": "/smart-hospital/static/css/main.5cacd454.css.map",
+    "main.359cb8b8.js.map": "/smart-hospital/static/js/main.359cb8b8.js.map",
     "787.b5bfac4d.chunk.js.map": "/smart-hospital/static/js/787.b5bfac4d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.7959ee35.js"
+    "static/css/main.5cacd454.css",
+    "static/js/main.359cb8b8.js"
   ]
 }
