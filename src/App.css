@@ -14,14 +14,18 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  color: #e830a1;
+  font-size: 25px;
+  margin-bottom: 5px;
+  font-weight: bold;
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+.content-text {
+  font-size: 22px;
+  color: #2574ac;
+  line-height: 1.5;
+  font-family: sans-serif;
 }
 
 .App-link {
@@ -35,4 +39,37 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.image-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: rgb(208, 206, 202);
+}
+.center {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.google-button {
+  transition-duration: 0.4s;
+  border-radius: 30px;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid black; /* Add a thin black border */
+  width: 100px;
+  padding: 10px;
+}
+
+.google-button:hover {
+  background-color: #e830a1;
+  color: white;
 }
